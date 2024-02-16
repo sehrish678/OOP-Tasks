@@ -1,0 +1,14 @@
+E:\OOP-Semester-2\Week-1\ConsoleApp03\ConsoleApp03\bin\Debug\ConsoleApp03.exe.config
+E:\OOP-Semester-2\Week-1\ConsoleApp03\ConsoleApp03\bin\Debug\ConsoleApp03.exe
+E:\OOP-Semester-2\Week-1\ConsoleApp03\ConsoleApp03\bin\Debug\ConsoleApp03.pdb
+E:\OOP-Semester-2\Week-1\ConsoleApp03\ConsoleApp03\obj\Debug\ConsoleApp03.csproj.AssemblyReference.cache
+E:\OOP-Semester-2\Week-1\ConsoleApp03\ConsoleApp03\obj\Debug\ConsoleApp03.csproj.CoreCompileInputs.cache
+E:\OOP-Semester-2\Week-1\ConsoleApp03\ConsoleApp03\obj\Debug\ConsoleApp03.exe
+E:\OOP-Semester-2\Week-1\ConsoleApp03\ConsoleApp03\obj\Debug\ConsoleApp03.pdb
+E:\OOP-Semester-2\Week-3\ConsoleApp03\ConsoleApp03\bin\Debug\ConsoleApp03.exe.config
+E:\OOP-Semester-2\Week-3\ConsoleApp03\ConsoleApp03\bin\Debug\ConsoleApp03.exe
+E:\OOP-Semester-2\Week-3\ConsoleApp03\ConsoleApp03\bin\Debug\ConsoleApp03.pdb
+E:\OOP-Semester-2\Week-3\ConsoleApp03\ConsoleApp03\obj\Debug\ConsoleApp03.csproj.AssemblyReference.cache
+E:\OOP-Semester-2\Week-3\ConsoleApp03\ConsoleApp03\obj\Debug\ConsoleApp03.csproj.CoreCompileInputs.cache
+E:\OOP-Semester-2\Week-3\ConsoleApp03\ConsoleApp03\obj\Debug\ConsoleApp03.exe
+E:\OOP-Semester-2\Week-3\ConsoleApp03\ConsoleApp03\obj\Debug\ConsoleApp03.pdb
